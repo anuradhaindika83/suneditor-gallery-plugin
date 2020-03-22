@@ -6,5 +6,4 @@ Plugin will get images from a given REST api and populate it for user to select.
 
 ```javascript
 "mediaurl":"http://localhost:8081/images/get"
-alert(s);
 ```
